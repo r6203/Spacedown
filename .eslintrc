@@ -1,0 +1,7 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "space-before-function-paren": 0,
+    "react/prefer-stateless-function": 1
+  }
+}
